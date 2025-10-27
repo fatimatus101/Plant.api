@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "nama": "Lidah Mertua",
+    "nama_ilmiah": "Sansevieria trifasciata",
+    "kategori": "hias",
+    "penyiraman": "2 kali seminggu, jangan terlalu basah.",
+    "cahaya": "Cahaya terang tidak langsung.",
+    "pupuk": "Pupuk cair sebulan sekali.",
+    "perawatan": "Jaga agar tanah kering sebelum disiram ulang.",
+    "deskripsi": "Tanaman hias populer yang tahan lama dan mampu menyaring udara di dalam ruangan.",
+    "gambar": "Asset/Lidah Mertua.jpeg"
+  },
+  {
+    "id": 2,
+    "nama": "Monstera",
+    "nama_ilmiah": "Monstera deliciosa",
+    "kategori": "hias",
+    "penyiraman": "2–3 kali seminggu, hindari air menggenang.",
+    "cahaya": "Cahaya sedang hingga terang.",
+    "pupuk": "Gunakan pupuk daun cair dua minggu sekali.",
+    "perawatan": "Lap daun secara rutin agar tidak berdebu.",
+    "deskripsi": "Tanaman tropis dengan daun besar dan berlubang, cocok sebagai penghias ruangan.",
+    "gambar": "Asset/Monstera.jpeg"
+  },
+  {
+    "id": 3,
+    "nama": "Sirih Gading",
+    "nama_ilmiah": "Epipremnum aureum",
+    "kategori": "hias",
+    "penyiraman": "Setiap 3 hari sekali atau saat tanah mulai kering.",
+    "cahaya": "Cahaya sedang, bisa tumbuh di dalam ruangan.",
+    "pupuk": "Berikan pupuk NPK sebulan sekali.",
+    "perawatan": "Potong batang yang terlalu panjang agar rapi.",
+    "deskripsi": "Tanaman merambat dengan daun hijau kekuningan yang mudah dirawat.",
+    "gambar": "Asset/sirih gading marble.jpeg"
+  },
+  {
+    "id": 4,
+    "nama": "Kuping Gajah",
+    "nama_ilmiah": "Anthurium crystallinum",
+    "kategori": "hias",
+    "penyiraman": "Setiap 2–3 hari sekali.",
+    "cahaya": "Cahaya tidak langsung.",
+    "pupuk": "Pupuk kandang halus tiap 2 minggu.",
+    "perawatan": "Jaga kelembaban udara agar daun tidak kering.",
+    "deskripsi": "Memiliki daun besar berbentuk hati dengan tekstur beludru dan urat putih mencolok.",
+    "gambar": "Asset/Kuping Gajah.jpeg"
+  },
+  {
+    "id": 5,
+    "nama": "Keladi Hias",
+    "nama_ilmiah": "Caladium bicolor",
+    "kategori": "hias",
+    "penyiraman": "Setiap hari saat musim panas.",
+    "cahaya": "Cahaya terang tidak langsung.",
+    "pupuk": "Pupuk NPK cair setiap minggu.",
+    "perawatan": "Jangan terlalu banyak air agar umbi tidak busuk.",
+    "deskripsi": "Tanaman dengan daun berwarna-warni yang cantik dan menarik perhatian.",
+    "gambar": "Asset/Keladi Hias.jpeg"
+  },
+  {
+    "id": 6,
+    "nama": "Kaktus Mini",
+    "nama_ilmiah": "Mammillaria sp.",
+    "kategori": "hias",
+    "penyiraman": "1 kali seminggu, biarkan tanah kering sepenuhnya.",
+    "cahaya": "Cahaya penuh atau sinar matahari langsung.",
+    "pupuk": "Pupuk khusus kaktus sebulan sekali.",
+    "perawatan": "Hindari penyiraman berlebih.",
+    "deskripsi": "Tanaman sukulen berduri yang sangat tahan kering dan mudah dirawat.",
+    "gambar": "Asset/Kaktus.jpeg"
+  },
+  {
+    "id": 7,
+    "nama": "Aglonema",
+    "nama_ilmiah": "Aglaonema sp.",
+    "kategori": "hias",
+    "penyiraman": "3 kali seminggu.",
+    "cahaya": "Cahaya sedang.",
+    "pupuk": "Pupuk cair daun 2 minggu sekali.",
+    "perawatan": "Jauhkan dari sinar matahari langsung.",
+    "deskripsi": "Dikenal sebagai 'Sri Rejeki', aglonema memiliki daun berwarna indah.",
+    "gambar": "Asset/Aglaonema sp.jpeg"
+  },
+  {
+    "id": 8,
+    "nama": "Peace Lily",
+    "nama_ilmiah": "Spathiphyllum wallisii",
+    "kategori": "hias",
+    "penyiraman": "2 kali seminggu.",
+    "cahaya": "Cahaya rendah hingga sedang.",
+    "pupuk": "Gunakan pupuk organik cair setiap bulan.",
+    "perawatan": "Hapus bunga yang layu agar tumbuh baru.",
+    "deskripsi": "Tanaman berbunga putih elegan yang menyerap racun udara.",
+    "gambar": "Asset/Peace Lily.jpeg"
+  },
+  {
+    "id": 9,
+    "nama": "Lavender",
+    "nama_ilmiah": "Lavandula angustifolia",
+    "kategori": "hias",
+    "penyiraman": "Setiap 2 hari sekali.",
+    "cahaya": "Sinar matahari penuh.",
+    "pupuk": "Gunakan pupuk kompos ringan setiap 2 minggu.",
+    "perawatan": "Potong batang setelah berbunga.",
+    "deskripsi": "Tanaman aromatik berwarna ungu yang sering digunakan sebagai pengusir nyamuk.",
+    "gambar": "Asset/Lavender.jpeg"
+  },
+  {
+    "id": 10,
+    "nama": "Aloe Vera",
+    "nama_ilmiah": "Aloe barbadensis miller",
+    "kategori": "hias",
+    "penyiraman": "1–2 kali seminggu.",
+    "cahaya": "Sinar matahari langsung.",
+    "pupuk": "Pupuk cair sukulen tiap bulan.",
+    "perawatan": "Pastikan pot memiliki drainase baik.",
+    "deskripsi": "Tanaman berdaging tebal dengan gel bermanfaat untuk kulit.",
+    "gambar": "Asset/Aloe Vera.jpeg"
+  },
+  {
+    "id": 11,
+    "nama": "Tomat",
+    "nama_ilmiah": "Solanum lycopersicum",
+    "kategori": "sayur",
+    "penyiraman": "Setiap hari saat tanah mulai kering.",
+    "cahaya": "Cahaya matahari penuh minimal 6 jam.",
+    "pupuk": "Pupuk NPK dua minggu sekali.",
+    "perawatan": "Ikat batang agar tidak roboh saat berbuah.",
+    "deskripsi": "Tanaman sayur buah berwarna merah yang kaya vitamin C dan likopen.",
+    "gambar": "Asset/Tomat.jpeg"
+  },
+  {
+    "id": 12,
+    "nama": "Cabai Merah",
+    "nama_ilmiah": "Capsicum annuum",
+    "kategori": "sayur",
+    "penyiraman": "Setiap hari, terutama saat berbuah.",
+    "cahaya": "Sinar matahari langsung.",
+    "pupuk": "Pupuk kompos dan NPK seimbang.",
+    "perawatan": "Bersihkan daun tua dan kering.",
+    "deskripsi": "Tanaman buah pedas yang sering digunakan sebagai bumbu masakan.",
+    "gambar": "Asset/Cabe Merah.jpeg"
+  },
+  {
+    "id": 13,
+    "nama": "Terong Ungu",
+    "nama_ilmiah": "Solanum melongena",
+    "kategori": "sayur",
+    "penyiraman": "Setiap pagi.",
+    "cahaya": "Sinar matahari langsung.",
+    "pupuk": "Pupuk kandang fermentasi dua minggu sekali.",
+    "perawatan": "Jaga jarak tanam agar sirkulasi udara baik.",
+    "deskripsi": "Tanaman sayur berbuah ungu dengan rasa lembut dan sedikit pahit.",
+    "gambar": "Asset/Terong Ungu.jpeg"
+  },
+  {
+    "id": 14,
+
+    "nama": "Wortel",
+    "nama_ilmiah": "Daucus carota",
+    "kategori": "sayur",
+    "penyiraman": "Setiap 2 hari.",
+    "cahaya": "Cahaya matahari penuh.",
+    "pupuk": "Gunakan pupuk NPK dua minggu sekali.",
+    "perawatan": "Gemburkan tanah secara berkala.",
+    "deskripsi": "Tanaman akar berwarna oranye yang kaya vitamin A dan baik untuk kesehatan mata.",
+    "gambar": "Asset/Wortel.jpeg"
+
+  },
+  {
+    "id": 15,
+    "nama": "Bayam Hijau",
+    "nama_ilmiah": "Amaranthus tricolor",
+    "kategori": "sayur",
+    "penyiraman": "Setiap hari di pagi hari.",
+    "cahaya": "Sinar matahari langsung.",
+    "pupuk": "Gunakan pupuk organik cair setiap 10 hari.",
+    "perawatan": "Cabut gulma agar pertumbuhan optimal.",
+    "deskripsi": "Sayur daun hijau kaya zat besi yang sering digunakan untuk sup atau tumisan.",
+    "gambar": "Asset/Bayam Hijau.jpeg"
+  }
+]
+
