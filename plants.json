@@ -9,7 +9,7 @@
     "pupuk": "Pupuk cair sebulan sekali.",
     "perawatan": "Jaga agar tanah kering sebelum disiram ulang.",
     "deskripsi": "Tanaman hias populer yang tahan lama dan mampu menyaring udara di dalam ruangan.",
-    "gambar": "Asset/Lidah Mertua.jpeg"
+    "gambar": "/Asset - Copy/Asset/Lidah Mertua.jpeg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "pupuk": "Gunakan pupuk daun cair dua minggu sekali.",
     "perawatan": "Lap daun secara rutin agar tidak berdebu.",
     "deskripsi": "Tanaman tropis dengan daun besar dan berlubang, cocok sebagai penghias ruangan.",
-    "gambar": "Asset/Monstera.jpeg"
+    "gambar": "/Asset - Copy/Monstera.jpeg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "pupuk": "Berikan pupuk NPK sebulan sekali.",
     "perawatan": "Potong batang yang terlalu panjang agar rapi.",
     "deskripsi": "Tanaman merambat dengan daun hijau kekuningan yang mudah dirawat.",
-    "gambar": "Asset/sirih gading marble.jpeg"
+    "gambar": "/Asset - Copy/sirih gading marble.jpeg"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "pupuk": "Pupuk kandang halus tiap 2 minggu.",
     "perawatan": "Jaga kelembaban udara agar daun tidak kering.",
     "deskripsi": "Memiliki daun besar berbentuk hati dengan tekstur beludru dan urat putih mencolok.",
-    "gambar": "Asset/Kuping Gajah.jpeg"
+    "gambar": "/Asset - Copy/Kuping Gajah.jpeg"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "pupuk": "Pupuk NPK cair setiap minggu.",
     "perawatan": "Jangan terlalu banyak air agar umbi tidak busuk.",
     "deskripsi": "Tanaman dengan daun berwarna-warni yang cantik dan menarik perhatian.",
-    "gambar": "Asset/Keladi Hias.jpeg"
+    "gambar": "/Asset - Copy/Keladi Hias.jpeg"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "pupuk": "Pupuk khusus kaktus sebulan sekali.",
     "perawatan": "Hindari penyiraman berlebih.",
     "deskripsi": "Tanaman sukulen berduri yang sangat tahan kering dan mudah dirawat.",
-    "gambar": "Asset/Kaktus.jpeg"
+    "gambar": "/Asset - Copy/Kaktus.jpeg"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "pupuk": "Pupuk cair daun 2 minggu sekali.",
     "perawatan": "Jauhkan dari sinar matahari langsung.",
     "deskripsi": "Dikenal sebagai 'Sri Rejeki', aglonema memiliki daun berwarna indah.",
-    "gambar": "Asset/Aglaonema sp.jpeg"
+    "gambar": "/Asset - Copy/Aglaonema sp.jpeg"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "pupuk": "Gunakan pupuk organik cair setiap bulan.",
     "perawatan": "Hapus bunga yang layu agar tumbuh baru.",
     "deskripsi": "Tanaman berbunga putih elegan yang menyerap racun udara.",
-    "gambar": "Asset/Peace Lily.jpeg"
+    "gambar": "/Asset - Copy/Peace Lily.jpeg"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "pupuk": "Gunakan pupuk kompos ringan setiap 2 minggu.",
     "perawatan": "Potong batang setelah berbunga.",
     "deskripsi": "Tanaman aromatik berwarna ungu yang sering digunakan sebagai pengusir nyamuk.",
-    "gambar": "Asset/Lavender.jpeg"
+    "gambar": "/Asset - Copy/Lavender.jpeg"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "pupuk": "Pupuk cair sukulen tiap bulan.",
     "perawatan": "Pastikan pot memiliki drainase baik.",
     "deskripsi": "Tanaman berdaging tebal dengan gel bermanfaat untuk kulit.",
-    "gambar": "Asset/Aloe Vera.jpeg"
+    "gambar": "/Asset - Copy/Aloe Vera.jpeg"
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "pupuk": "Pupuk NPK dua minggu sekali.",
     "perawatan": "Ikat batang agar tidak roboh saat berbuah.",
     "deskripsi": "Tanaman sayur buah berwarna merah yang kaya vitamin C dan likopen.",
-    "gambar": "Asset/Tomat.jpeg"
+    "gambar": "/Asset - Copy/Tomat.jpeg"
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "pupuk": "Pupuk kompos dan NPK seimbang.",
     "perawatan": "Bersihkan daun tua dan kering.",
     "deskripsi": "Tanaman buah pedas yang sering digunakan sebagai bumbu masakan.",
-    "gambar": "Asset/Cabe Merah.jpeg"
+    "gambar": "/Asset - Copy/Cabe Merah.jpeg"
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "pupuk": "Pupuk kandang fermentasi dua minggu sekali.",
     "perawatan": "Jaga jarak tanam agar sirkulasi udara baik.",
     "deskripsi": "Tanaman sayur berbuah ungu dengan rasa lembut dan sedikit pahit.",
-    "gambar": "Asset/Terong Ungu.jpeg"
+    "gambar": "/Asset - Copy/Terong Ungu.jpeg"
   },
   {
     "id": 14,
@@ -166,7 +166,7 @@
     "pupuk": "Gunakan pupuk NPK dua minggu sekali.",
     "perawatan": "Gemburkan tanah secara berkala.",
     "deskripsi": "Tanaman akar berwarna oranye yang kaya vitamin A dan baik untuk kesehatan mata.",
-    "gambar": "Asset/Wortel.jpeg"
+    "gambar": "/Asset - Copy/Wortel.jpeg"
 
   },
   {
@@ -179,7 +179,7 @@
     "pupuk": "Gunakan pupuk organik cair setiap 10 hari.",
     "perawatan": "Cabut gulma agar pertumbuhan optimal.",
     "deskripsi": "Sayur daun hijau kaya zat besi yang sering digunakan untuk sup atau tumisan.",
-    "gambar": "Asset/Bayam Hijau.jpeg"
+    "gambar": "/Asset - Copy/Bayam Hijau.jpeg"
   }
 ]
 
