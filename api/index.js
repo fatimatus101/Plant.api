@@ -4,17 +4,19 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
+// 🔧 Setup path agar bisa berjalan di lingkungan Vercel
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
 app.use(cors());
 
-// 🔹 Tambahkan ini untuk melayani gambar
-app.use(express.static("public"));
+// ✅ Sajikan file statis (gambar) dari folder public
+app.use(express.static(path.join(__dirname, "../public")));
 
-const plantsPath = path.resolve(process.cwd(), "plants.json");
+const plantsPath = path.join(__dirname, "../plants.json");
 
+// ✅ Load data tanaman
 let plants = [];
 try {
   const data = fs.readFileSync(plantsPath, "utf8");
@@ -24,10 +26,12 @@ try {
   console.error("❌ Error loading plants.json:", err.message);
 }
 
+// 🌿 Endpoint utama (semua tanaman)
 app.get("/", (req, res) => {
   res.json(plants);
 });
 
+// 🌿 Endpoint detail tanaman berdasarkan ID
 app.get("/plants/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const plant = plants.find((p) => p.id === id);
@@ -37,4 +41,5 @@ app.get("/plants/:id", (req, res) => {
   res.json(plant);
 });
 
+// 🚀 Export app untuk dijalankan oleh Vercel
 export default app;
