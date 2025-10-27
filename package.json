@@ -1,17 +1,13 @@
 {
-  "name": "plant.api",
+  "name": "plant-api",
   "version": "1.0.0",
-  "description": "API Tanaman sederhana",
-  "main": "server.js",
+  "type": "module",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
   }
 }
